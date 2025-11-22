@@ -1,5 +1,5 @@
 # Define the Streamlit app content and save it to app.py
-streamlit_app_content = 
+
 import streamlit as st
 import pandas as pd
 import numpy as np
