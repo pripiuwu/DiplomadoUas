@@ -30,5 +30,5 @@ st.success(f"Predicción del modelo: {pred:.2f}")
 with open("app.py", "w") as f:
     f.write(streamlit_app_content)
 
-print("app.py created successfully."
+print("app.py created successfully.")
 
